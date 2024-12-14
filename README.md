@@ -33,22 +33,26 @@
 
 ## OUTPUT :
 
+
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-14 102744](https://github.com/user-attachments/assets/9f67ab46-8f66-4571-8ea2-b999ca7ce4b1)
+![Screenshot 2024-12-14 102815](https://github.com/user-attachments/assets/addb9f4e-67ad-446a-a633-fed090962d0d)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-14 102901](https://github.com/user-attachments/assets/f5752155-0e4c-4a6d-b7ee-d6d8d151fc29)
+![Screenshot 2024-12-14 102925](https://github.com/user-attachments/assets/097e93b7-0bbb-4ac5-9ca3-bfc79d935f0e)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-14 102946](https://github.com/user-attachments/assets/150e549a-0da9-4d88-9819-441b0303e591)
+![image](https://github.com/user-attachments/assets/9ba93389-9a2d-4938-b1de-5dcc4b7e1e76)
 
 ## Output:
+![Screenshot 2024-12-04 113231](https://github.com/user-attachments/assets/c8b1cef4-264b-42fd-b33c-77fc3f4fb98f)
+![Screenshot 2024-12-04 113306](https://github.com/user-attachments/assets/72d508f1-5ca5-4b61-8c32-c46b67afc69f)
+![Screenshot 2024-12-04 113333](https://github.com/user-attachments/assets/cea7f4ae-ce18-439c-82a9-ef1b9b8222f5)
 
-### Name:
-### Register Number:
+### Name:Lalentika Twisha M
+### Register Number:24003575
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
